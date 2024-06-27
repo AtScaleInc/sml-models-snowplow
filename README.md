@@ -21,7 +21,7 @@ With Snowplow, organizations like Strava, Burberry, and Autotrader acquire, enga
 ## Data Loading Instructions
 
 ### Snowflake
-The Snowplow data for the Snowplow model is free in the Snowflake Marketplace. To get access to the tutorial data in the Snowflake Marketplace:
+The Snowplow data for the Snowplow model is free in the Snowflake Marketplace. To get access to the Snowplow sample data in the Snowflake Marketplace:
 
 1. **Go to the Snowflake Marketplace:** In the Snowflake console, click "Data Products" and click the "Marketplace" link.
 
